@@ -6,4 +6,4 @@
 php_info();
 ?>
 
-<p>test</p>
+<p>testing</p>
