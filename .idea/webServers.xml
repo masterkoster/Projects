@@ -2,10 +2,10 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="933c6ac2-2b5e-40bd-8d9d-878a685d0388" name="name.com" url="www.koster.im/">
+      <webServer id="f032602c-6f42-4621-a9f9-880e78922d7e" name="name" url="https://koster.im/public/">
         <fileTransfer host="ftp.koster.im" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="10000" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>

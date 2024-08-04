@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:mysql://localhost:3306/dkos_motorcycle</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="defaultdb@motorcycle-do-user-17413868-0.h.db.ondigitalocean.com" uuid="96f9e52b-9c69-456a-b660-ee9ef90a4479">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://motorcycle-do-user-17413868-0.h.db.ondigitalocean.com:25060/defaultdb</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
