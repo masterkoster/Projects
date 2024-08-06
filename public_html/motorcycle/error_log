@@ -1,0 +1,45 @@
+[04-Aug-2024 21:59:23 UTC] PHP Warning:  Undefined variable $vardump in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 21:59:23 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/masterko/public_html/motorcycle/Features.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 21:59:23 UTC] PHP Warning:  Undefined variable $vardump in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 21:59:23 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/masterko/public_html/motorcycle/Features.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 21:59:23 UTC] PHP Warning:  Undefined variable $vardump in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 21:59:23 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/masterko/public_html/motorcycle/Features.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 22:01:44 UTC] PHP Warning:  Undefined variable $var_dump in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 22:01:44 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/masterko/public_html/motorcycle/Features.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 22:01:45 UTC] PHP Warning:  Undefined variable $var_dump in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 22:01:45 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/masterko/public_html/motorcycle/Features.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 22:01:45 UTC] PHP Warning:  Undefined variable $var_dump in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 22:01:45 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/masterko/public_html/motorcycle/Features.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 22:01:52 UTC] PHP Warning:  Undefined variable $var_dump in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 22:01:52 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/masterko/public_html/motorcycle/Features.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 22:01:53 UTC] PHP Warning:  Undefined variable $var_dump in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 22:01:53 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/masterko/public_html/motorcycle/Features.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 22:01:53 UTC] PHP Warning:  Undefined variable $var_dump in /home/masterko/public_html/motorcycle/Features.php on line 5
+[04-Aug-2024 22:01:53 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/masterko/public_html/motorcycle/Features.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/masterko/public_html/motorcycle/Features.php on line 5

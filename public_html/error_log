@@ -1,0 +1,20 @@
+[04-Aug-2024 21:13:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/masterko/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/masterko/public_html/index.php on line 6
+[04-Aug-2024 21:13:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/masterko/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/masterko/public_html/index.php on line 6
+[04-Aug-2024 21:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/masterko/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/masterko/public_html/index.php on line 6
+[04-Aug-2024 21:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/masterko/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/masterko/public_html/index.php on line 6
+[04-Aug-2024 21:13:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/masterko/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/masterko/public_html/index.php on line 6
